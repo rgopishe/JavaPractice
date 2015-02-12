@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+    <User userid="11">
+        <username>Fremont20</username>
+        <password>Fremont</password>
+        <validity/>
+    </User>
+    <User userid="12">
+        <username>Seattle25</username>
+        <password>Seattle</password>
+        <validity/>
+    </User>
+    <User userid="11">
+        <username>Charlotte30</username>
+        <password>charlotte</password>
+        <validity/>
+    </User>
+</Person>
